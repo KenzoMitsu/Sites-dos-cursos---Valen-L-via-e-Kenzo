@@ -49,7 +49,7 @@ body {
     color: #000066; /* Cor do texto azul escuro */
 }
 section div img {
-    width: 100%;
+    width: 40%;
     height: auto;
 }
 
@@ -64,4 +64,29 @@ main a button {
     margin: 4px 2px;
     cursor: pointer; /* Muda o cursor para um ponteiro quando você passa o mouse sobre o botão */
     border: none; /* Remove a borda do botão */
+}
+
+.importancia {
+    padding-bottom: 30px;
+}
+
+.ransomware {
+    padding-bottom: 30px;
+}
+
+.malware {
+    padding-bottom: 30px;
+}
+
+.virus {
+    padding-bottom: 30px;
+}
+
+.phishing {
+    padding-bottom: 30px;
+}
+
+.segurança {
+    padding-bottom: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
