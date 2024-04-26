@@ -1,0 +1,29 @@
+/* cores-centraliza */
+.cor-vermelha {
+    background-color: red;
+}
+.cor-cinza {
+    background-color: rgb(218, 220, 223);
+}
+
+.centraliza {
+    text-align: center;
+}
+
+/* PÁGINA INICIAL  */
+
+div img.logo {
+    width: 30%;
+}
+
+/* Conteudo do site */
+
+nav button.botão {
+    color:black;
+    width: 300px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    border: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
