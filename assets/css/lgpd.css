@@ -1,0 +1,87 @@
+/* cores-centraliza */
+.cor-vermelha {
+    background-color: red;
+}
+.cor-cinza {
+    background-color: rgb(218, 220, 223);
+}
+
+.centraliza {
+    text-align: center;
+}
+
+img.centraliza {
+    margin: 0 auto;
+    display: block;
+}
+/* PÁGINA INICIAL  */
+
+div img.logo {
+    width: 30%;
+}
+
+/* Conteudo do site */
+
+nav button.botão {
+    color:black;
+    width: 300px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    border: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.cor-vermelha-palavra {
+    color:darkred;
+}
+.Título {
+    background-color: darkgray;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}   
+.azul-claro {
+    background-color: rgb(78, 78, 214);
+    font-size: larger;
+}
+.oi {
+    width:50%;
+}
+
+.grupo {
+    display:flex;
+}
+.azul {
+    background-color: rgb(56, 198, 245);
+}
+.azuloi {
+    background-color: rgb(148, 228, 255);
+}
+
+.finalidade {
+    background-color: #eeeded;
+    padding-left: 170px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+.background1 {
+    padding: 8px;
+    padding-bottom: 10px;
+    background-color: white;
+    border: white;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 3px 4px 7px rgba(128, 128, 128, 0.6);
+    text-align: center;
+}
+.foto {
+    padding-bottom: 10px;
+    width: 200px;
+    border-radius: 15px;
+}
