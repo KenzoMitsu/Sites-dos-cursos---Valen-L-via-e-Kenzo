@@ -95,3 +95,16 @@ section main p {
     padding-bottom: 45px;
     width: 60%;
 }
+
+.ponto {
+    width: 35%;
+    border-radius:23px;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+    background-color: white;
+    border: white;
+}
+
+.agrupamento {
+    
+}
