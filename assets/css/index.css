@@ -19,11 +19,13 @@
     text-align: center;
 }
 
+
+/* PÁGINA INICIAL  */
+
 img.centraliza {
     margin: 0 auto;
     display: block;
 }
-/* PÁGINA INICIAL  */
 
 div img.logo {
     width: 30%;

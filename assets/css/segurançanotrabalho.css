@@ -1,0 +1,89 @@
+/* SEGURNAÇA NO TRABALHO */
+
+/* cores-centraliza */
+.cor-preta {
+    background-color: black;
+}
+
+.cor-vermelho-escuro {
+    background-color: rgb(177, 2, 2);
+}
+
+
+.cor-vermelha {
+    background-color: red;
+}
+.cor-cinza {
+    background-color: rgb(218, 220, 223);
+}
+
+.centraliza {
+    text-align: center;
+}
+
+/* cabeçalho */
+img.centraliza {
+    margin: 0 auto;
+    display: block;
+}
+
+div img.logo {
+    width: 30%;
+}
+
+/* conteudo do site */
+nav button.botão {
+    color:black;
+    width: 295px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    border: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.par {
+    font-size: 30px;
+}
+
+.pgf {
+    font-size: 20px;
+}
+
+.finalidade {
+    background-color: #eeeded;
+    padding-left: 385px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+.background1 {
+    padding: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    border: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+    text-align: center;
+}
+.foto {
+    padding-bottom: 20px;
+    width: 400px;
+    border-radius: 30px;
+}
+
+/* rodape */
+
+footer section.rod {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mensagem {
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
