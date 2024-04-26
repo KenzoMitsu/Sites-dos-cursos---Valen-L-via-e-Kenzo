@@ -34,7 +34,7 @@ div img.logo {
 /* conteudo do site */
 nav button.botão {
     color:black;
-    width: 295px;
+    width: 265px;
     padding-bottom: 15px;
     padding-top: 15px;
     border-radius: 10px;
@@ -71,6 +71,9 @@ nav button.botão {
     padding-bottom: 20px;
     width: 400px;
     border-radius: 30px;
+}
+.port {
+    color: red;
 }
 
 /* rodape */
