@@ -72,6 +72,7 @@ main a button {
 
 .ransomware {
     padding-bottom: 30px;
+    padding-right: 30px;
 }
 
 .malware {
@@ -84,6 +85,7 @@ main a button {
 
 .phishing {
     padding-bottom: 30px;
+    padding-right: 30px;
 }
 
 .segurança {
@@ -105,6 +107,12 @@ section main p {
     border: white;
 }
 
-.agrupamento {
-    
+.agrupamento1 {
+    display: flex;
+    padding-left: 300px;
+}
+
+.agrupamento2 {
+    display: flex;
+    padding-left: 300px;
 }
