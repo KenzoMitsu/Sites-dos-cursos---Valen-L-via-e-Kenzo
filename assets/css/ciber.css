@@ -48,7 +48,7 @@ body {
     margin: 15px;
     color: #000066; /* Cor do texto azul escuro */
 }
-img {
+section div img {
     width: 100%;
     height: auto;
 }
