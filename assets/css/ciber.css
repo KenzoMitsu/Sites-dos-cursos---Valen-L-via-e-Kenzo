@@ -90,3 +90,8 @@ main a button {
     padding-bottom: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+section main p {
+    padding-bottom: 45px;
+    width: 60%;
+}
